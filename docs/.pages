@@ -1,0 +1,9 @@
+hide: true
+
+nav:
+  - Start: index.md
+  - AlpakaSSO: alpakasso
+  - Tools: tools
+  - Crew: crew
+  - Rechtliches:
+    - Impressum: https://jugendhackt.org/impressum/

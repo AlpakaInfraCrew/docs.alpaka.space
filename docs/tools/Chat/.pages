@@ -1,0 +1,5 @@
+nav:
+  - Einleitung: index.md
+  - Registrieren: register.md
+  - Login: login.md
+  - Key Verloren: loskey.md
