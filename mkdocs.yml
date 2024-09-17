@@ -1,0 +1,34 @@
+site_name: Alpaka Infra Crew
+site_url: https://docs.alpaka.space
+
+theme:
+  language: de
+  name: material
+  favicon: assets/favicon.svg
+  logo: assets/logo.png
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed
+  - footnotes
+
+
+
+repo_name: AlpakaInfraCrew/docs.alpaka.space
+repo_url: https://github.com/AlpakaInfraCrew/docs.alpaka.space
+edit_uri: _edit/main/docs/
+
+
+
+extra_css:
+  - extra.css
