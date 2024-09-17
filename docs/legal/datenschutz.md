@@ -1,4 +1,4 @@
-Verantwortlich für dieses Angebot ist gemäß § 5 TMG / § 55 RStV sowie Art. 4 Nr. 7 DSGVO die Open Knowledge Foundation Deutschland e.V. (im folgenden "OKFNDE" genannt):
+<!--Verantwortlich für dieses Angebot ist gemäß § 5 TMG / § 55 RStV sowie Art. 4 Nr. 7 DSGVO die Open Knowledge Foundation Deutschland e.V. (im folgenden "OKFNDE" genannt):
 
 ```
 Singerstr. 109
@@ -189,6 +189,6 @@ URL: https://status.alpaka.space / https://status.alpaka.network
 ### Fahrplan
 URL: https://fahrplan.alpaka.space
 
-
+-->
 <!-- ### Cloud
 URL: https://cloud.alpaka.space-->
