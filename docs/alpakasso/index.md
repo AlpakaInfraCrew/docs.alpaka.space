@@ -54,7 +54,7 @@ Nachdem du auf den Link geklickt hast, wirst du gebeten, dein Passwort einzugebe
 Herzlichen Glückwunsch! Du bist direkt in allen für die Veranstaltung nötigen Gruppen und kannst alle Tools nutzen.
 
 
-## Tools
+## Tools (Dienste)
 
 Die Tools sind die verschiedenen Kacheln, die du direkt nach der Anmeldung, oder unter dem Reiter "Dienste" siehst. 
 In jedem Falle solltest du "Chat", "Wiki", "Git", "Status" und "Pads" sehen. Abhängig von den Gruppen, den du hinzugefügt wurdest, kann es sein dass du mehr Tools siehst. 
@@ -67,3 +67,14 @@ Zum Anmelden bei den verschiedenen Tools gibt es jeweils eine eigene Erklärung.
 - In Status kannst du sehen, ob alle Tools aktuell erreichbar sind 
 - Wenn die Event Orga Zeiten im Fahrplan eingetragen hat, kannst du dort nachsehen, wann was stattfindet
 - Mithilfe von Termimverwaltung kanst du verschiedene Terminoptionen mit anderen abstimmen
+
+## Einstellungen (Selfservice)
+
+Unter dem zweiten Reiter in der grauen Oberen Zeile, Selfservice, kannst du 
+- deinen Anzeigenamen ändern
+- deine E-Mail adresse ändern
+- dein Passwort ändern
+- Zwei Faktor Authentifizierung einstellen, um andere daran zu hindern, sich mit deinem Anmeldenamen und Passwort anzumelden
+- aus Gruppen austreten
+- sehen mit welchen Geräten du dich angemeldet hast
+
