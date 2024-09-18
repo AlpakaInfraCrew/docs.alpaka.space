@@ -1,10 +1,6 @@
 GitLab
 ===
 
-Hier ist noch nichts!
-Passwort Pull ist möglich
-wie klicke ich mich zu nem passwort durch
-2fa bitte nicht anmachen 
 
 Um auf dein GitLab Account zuzugreifen, wählst du von deinen Tools Git aus.
 
@@ -42,7 +38,10 @@ Wenn du das Seitenmenü öffnest, stehen dir mehrere generalisierte Optionen zur
 ### Profil
 ![Schritt 5, Usenden Einstellungen](../../assets/git/git5.png){width=300}
 Wenn du auf dein Profil klickst, kannst du einen für alle Sichtbaren Status setzen, dich abmelden oder auch Einstellungen verändern. 
-Wenn du auf eine der rot umrandeten Optionen klickst, ver"ndern sich die Optionen im Seitenmenü und du kannst spezifischere Profileinstellungen vornehmen.
+Wenn du auf eine der rot umrandeten Optionen klickst, verändern sich die Optionen im Seitenmenü und du kannst spezifischere Profileinstellungen vornehmen.
+
+!!! note "sehr spezifischer Hinweis"
+    Es gibt die Möglichkeit 2FA in GitLab zu benutzen. Weenn du 2FA nuzten möchtest, setze das bitte in AlpakaAuth (deinem SSO-Account), nicht in GitLab.
 
 ### Projekt
 ![Schritt 5a, Projekt Einstellungen](../../assets/git/git8.png){width=300}
