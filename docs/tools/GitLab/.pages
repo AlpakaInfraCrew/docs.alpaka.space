@@ -1,2 +1,3 @@
 nav:
-  - Hier ist noch nichts: index.md
+  - Anmelden: index.md
+  - Passwort setzen: password.md
