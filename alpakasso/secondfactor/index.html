@@ -325,6 +325,17 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    2FA
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -334,6 +345,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#apps" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apps
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gerate" class="md-nav__link">
+    <span class="md-ellipsis">
+      Geräte
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -832,7 +880,28 @@
         
   
   <span class="md-ellipsis">
-    Hier ist noch nichts
+    Anmelden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tools/GitLab/password/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Passwort setzen
   </span>
   
 
@@ -896,7 +965,7 @@
         
   
   <span class="md-ellipsis">
-    Hier ist noch nichts
+    Anmelden
   </span>
   
 
@@ -1215,6 +1284,32 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#apps" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apps
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gerate" class="md-nav__link">
+    <span class="md-ellipsis">
+      Geräte
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1232,7 +1327,33 @@
 
 
 <h1 id="alpakasso-2fa-einrichten">AlpakaSSO - 2FA einrichten</h1>
-<p>2FA einrichten erklären</p>
+<p>Zwei Faktor Authentifizierung (2FA) erlaubt das Einrichten von Geräten, die angeschlossen werden müssen (zB yubikey oder Biometrische Daten) oder wechselnden Einmalpasswörtern, die bei Anmeldung eingegeben werden müssen. </p>
+<p>Dadurch reicht Wissen über Anmeldename und Passwort nicht aus, es wird ein Zweiter Faktor benötigt...</p>
+<p>Das aktivieren von 2FA erfolgt unter den selvservicen.</p>
+<p><img alt="Selfservice" src="../../assets/new/bar.png" width="300" /></p>
+<p>Dabei gibt es einen Punkt 2-FA verwalten. Dort wird auch angezeigt, ob 2FA bereits aktiviert ist. Ist es nicht aktiviert, kann es im durch den Button erreichbaren Menü aktiviert werden. </p>
+<p><img alt="Schritt 1, 2FA verwalten" src="../../assets/2fa/2fa1.png" width="600" /></p>
+<p>Unabhängig davon, ob eine Authentificator-App oder ein U2F bzw. FIDO2 Gerät als erster Faktor hinterlegt werden soll, müssen als erstes die Wiederherstellungscodes generiert werden. </p>
+<p>!!! danger "Wiederherstellungscodes
+    Wenn der 2-Faktor verloren geht, ist Passwort zurücksetzen keine Option um wieder zugriff auf den Account zu erhalten. Mindestens einer der Wiederherstellungscodes wird benötigt. </p>
+<p><img alt="Schritt 2, 2FA Optionen" src="../../assets/2fa/2fa2.png" width="400" /></p>
+<p>Bei den Wiederherstellungscodes handelt es sich um 10 randomisierte Codes, diese können als Text Datei gespeichert werden (müssen nicht, einfaches auf <strong>Weiter</strong> klicken, lädt die Codes nicht herunter), das generieren neuer Codes überschreibt die vorherigen.</p>
+<p><img alt="Schritt 3, 2FA Wiederherstellungscode" src="../../assets/2fa/2fa3.png" width="200" /></p>
+<p>Anschließend gibt es mehrere Optionen den zweiten Faktor einzurichten. </p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Nicht alle Browser und gerade Mobile Endgeräte unterstützen 2Faktor Geräte. Evtl kann nur die App variante  oder FIDO2 Webauthn genutzt werden. Bitte selbstständig für eure Nutzung prüfen</p>
+</div>
+<h2 id="apps">Apps</h2>
+<p>Die meisten Passwort Manager unterstützen 2FA. Ansonsten bieten Microsoft, Google, Apple und weitere, weniger große Anbieter Apps dafür an.</p>
+<p>Dazu gebt ihr einen für euch nachvollziehbaren Namen an die Option und klickt auf neue App hinzufügen.
+<img alt="Schritt 1, 2FA AuthenticatorManager" src="../../assets/2fa/2fa4.png" width="600" />
+Oft kann beim Passwort Manager eintrag editieren ein QR-Code für 2FA eingescannt werden. Ist das nicht der Fall, stehen neben dem QR-Code die nötigen Daten zum Händisch eingeben. </p>
+<p><img alt="Schritt 1, 2FA QR-Code" src="../../assets/2fa/2fa5.png" width="600" /></p>
+<p>Es werden ab jetzt im 30 Sekunden Takt 6-Stellige Codes generiert. Wird der aktuelle Code im unteren Eingabefeld eingegeben, und bestätigt, steht die Funktion zur Verfügung.</p>
+<h2 id="gerate">Geräte</h2>
+<p>Für Geräte wird ein nachvollziehbarer Name in das Freitextfeld gegeben. Auf betätigung des Buttons wird automatisch nach dieser Option gescannt.
+<img alt="Schritt 1, 2FA Gerät" src="../../assets/2fa/2fa6.png" width="600" /></p>
 
 
 
