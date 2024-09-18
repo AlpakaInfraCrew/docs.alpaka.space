@@ -1,7 +1,2 @@
 nav:
-  - Neu hier: index.md
-  - Registrieren: register.md
-  - 2FA: secondfactor.md
-  - Passwort Vergessen: forgot.md
-  - Account löschen: delete.md
-  - Moderation: moderate.md
+  - Hier ist noch nichts: index.md
