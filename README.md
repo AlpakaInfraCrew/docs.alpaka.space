@@ -12,10 +12,13 @@ pip3 install -r requirements.txt
 
 ## run mkdocs locally
 
-`mkdocs serve`
+`mkdocs serve` & view `http://127.0.0.1:8000`
 
 
 ## deploy mkdocs
 
-`mkdocs gh-deploy`
+Create a MR into the `main` branch.
 
+It'll build automatically.
+
+**DON'T DO `mkdocs gh-deploy`!**
