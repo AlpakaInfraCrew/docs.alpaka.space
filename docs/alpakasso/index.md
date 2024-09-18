@@ -56,7 +56,7 @@ Bekommst du diese Meldung nicht, stimmen vielleicht deine Passwörter nicht übe
 ![Schritt 3, E-mail versand](../assets/new/new3.png){width=400}
 
 
-Öffne deine E-Mails und schaue nach, ob du eine E-Mail von "noreply@jugendhackt.org" bekommen hast. Der Betreff der E-Mail ist "Confirm your mail address". Hast du nach mehreren Minuten noch keine E-Mail erhalten, kontrolliere auch dein *Spam* oder *Junk* Ordner. Hast du das Registrierungsfenster noch offen, kontrolliere auch gerne, ob deine E-Mail-Adresse korrekt geschrieben ist.
+Öffne deine E-Mails und schaue nach, ob du eine E-Mail von "noreply@jugendhackt.org" bekommen hast. Der Betreff der E-Mail ist **Confirm your mail address**. Hast du nach mehreren Minuten noch keine E-Mail erhalten, kontrolliere auch dein *Spam* oder *Junk* Ordner. Hast du das Registrierungsfenster noch offen, kontrolliere auch gerne, ob deine E-Mail-Adresse korrekt geschrieben ist.
 
 ![Schritt 4, E-Mail Link](../assets/new/newMail.png){width=600}
 
