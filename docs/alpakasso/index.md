@@ -44,7 +44,7 @@ Wenn alle Angaben den Vorgaben entsprechen, bekommst du eine meldung, dass du de
 Bekommst du diese Meldung nicht, stimmen vielleicht deine Passwörter nicht überein, oder dein Anmeldenamen ist bereits vergeben. Das Feld, in dem du eine änderung vornehmen musst, ist rot.
 
 
-Öffne deine E-Mails und schaue nach, ob du eine E-Mail von "noreply@jugendhackt.org" bekommen hast. Der Betreff der E-Mail ist "Confirm your mail address". Hast du nach mehreren minuten noch keine E-Mail erhalten, kontrolliere auch dein SPAM (oder JUNk) Ordner und ob du bei der Registrierung deine E-Mail-Adresse korrekt angegeben hast.
+Öffne deine E-Mails und schaue nach, ob du eine E-Mail von "noreply@jugendhackt.org" bekommen hast. Der Betreff der E-Mail ist "Confirm your mail address". Hast du nach mehreren minuten noch keine E-Mail erhalten, kontrolliere auch dein SPAM (oder JUNk) Ordner und ob du bei der Registrierung deine E-Mail-Adresse korrekt angegeben hast (wenn du den Tab nicht geschlossen hat, steht deine Email Adresse in Fett noch da).
 
 Die E-Mail ist auf Englisch. In ihr wird bestätigt, dass du einen Account angelegt hast. Der obere Link beginnt mit "https://auth.alpaka.space/signup/confirm" und hat dahinter verschiedene Zahlen. Wenn du auf diesen Link klickst, bestätigst du, dass du  deinen Account regestrieren möchtest und Zugriff auf deine E-Mail-Adresse hast.
 Sollte der Link nicht mehre funktionieren, hast du wahrscheinlich länger als 48 Stunden zum Bestätigen gebraucht. Dann kannst du den Regestrierungslink vom Anfang nutzen, um dich erneut anzumelden.
@@ -52,3 +52,18 @@ Sollte der Link nicht mehre funktionieren, hast du wahrscheinlich länger als 48
 Nachdem du auf den Link geklickt hast, wirst du gebeten, dein Passwort einzugeben. Wenn du das hier angibst, hast du es geschafft. Dein Account ist Regestrtiert und du hast Zugriff auf die verschiedenen Tools.
 
 Herzlichen Glückwunsch! Du bist direkt in allen für die Veranstaltung nötigen Gruppen und kannst alle Tools nutzen.
+
+
+## Tools
+
+Die Tools sind die verschiedenen Kacheln, die du direkt nach der Anmeldung, oder unter dem Reiter "Dienste" siehst. 
+In jedem Falle solltest du "Chat", "Wiki", "Git", "Status" und "Pads" sehen. Abhängig von den Gruppen, den du hinzugefügt wurdest, kann es sein dass du mehr Tools siehst. 
+
+Du bist in jedem dieser Tools bereits in den für dich Notwendigen Gruppen angemeldet. Wenn du weitere Gruppen brauchst, frag gerne bei Mentor\*innen nach.
+
+Zum Anmelden bei den verschiedenen Tools gibt es jeweils eine eigene Erklärung. 
+- Chat erlaubt dir auch außerhalb von Zulip mit anderen zu Chatten
+- Pads erlaubt dir mit anderen gemeinsam an Notizen zu arbeiten, oder über verschiedene Geräte hinweg
+- In Status kannst du sehen, ob alle Tools aktuell erreichbar sind 
+- Wenn die Event Orga Zeiten im Fahrplan eingetragen hat, kannst du dort nachsehen, wann was stattfindet
+- Mithilfe von Termimverwaltung kanst du verschiedene Terminoptionen mit anderen abstimmen
