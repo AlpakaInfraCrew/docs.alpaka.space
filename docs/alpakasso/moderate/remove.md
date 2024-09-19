@@ -1,7 +1,8 @@
 AlpakaSSO - Moderieren - User aus Gruppe entfernen
 ===
 
-auf Moderieren klicken
+Um Nutzende zu einer Gruppe hinzuzufügen, brauchst du Moderationsrechte. Dann wird dir der Reiter Moderation in der grauen Leiste angezeigt.
+Klick auf Moderation.
 
 ![Schritt 1, Reiter Moderieren](../../assets/mod/entf1.png){width=300}
 
