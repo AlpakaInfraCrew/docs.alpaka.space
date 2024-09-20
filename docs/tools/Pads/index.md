@@ -32,7 +32,7 @@ Die wichtigsten Ansichten dort sind:
 
 Wenn du auf ein vorhandenes Pad klickst, öffnet sich dieses. Wenn du auf **+New** klickst, bekommst du ein leeres Pad. Du kannst dein Pad anderen durch die URL teilen.
 
-![Schritt 5m Optionen](../../assets/pad/pad5.png){width=700}
+![Schritt 5, Optionen](../../assets/pad/pad5.png){width=700}
 
 1. Die Ansicht. Das Auge ist eine reine Lese-Ansicht, der Stift gibt dir eine Editor-Ansicht und das Doppel Panel in der Mitte gibt dir eine Ansicht, in der du links Editieren kannst udn Rechts sehen, was du schreibst.
 
