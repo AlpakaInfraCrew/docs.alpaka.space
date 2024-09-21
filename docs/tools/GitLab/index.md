@@ -47,3 +47,7 @@ Wenn du auf eine der rot umrandeten Optionen klickst, verändern sich die Option
 ![Schritt 5a, Projekt Einstellungen](../../assets/git/git8.png){width=300}
 
 Befindest du dich ein einem deiner Projekte sind die Optionen des Seitenmenüs andere, als in der Standart übersicht. Hier kommst du zu den Orten um zu verwalten wer Mitmachen soll/darf, wer das Projekt sehen kann, welchen Code es bisher gibt und vieles andere
+
+!!! note "Passwort statt shh"
+    Du kannst git mit ssh nutzen. Wenn du dich damit (noch) nicht beschäftigen möchtest, steht dir auch eine (einfachere) Version mit Passwort zur Verfügung.
+    Setze dafür bitte ein eigenes Passwort in GitLab ([Anleitung](/docs/tools/GitLab/password.md))
